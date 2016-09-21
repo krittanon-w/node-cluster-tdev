@@ -1,0 +1,20 @@
+{
+  "name": "node-cluster-tdev",
+  "version": "1.0.0",
+  "description": "node cluster test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krittanon-w/node-cluster-tdev.git"
+  },
+  "author": "krittanon.w",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krittanon-w/node-cluster-tdev/issues"
+  },
+  "homepage": "https://github.com/krittanon-w/node-cluster-tdev#readme"
+}
